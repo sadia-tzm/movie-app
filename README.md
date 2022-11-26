@@ -23,4 +23,11 @@
  ```sh
  npm run dev
  ```
+ 
+ ## Preview
+ ![Alt Text](https://github.com/sadia-tzm/movie-app/blob/main/images/1.png)
+ <br>
+ ![Alt Text](https://github.com/sadia-tzm/movie-app/blob/main/images/2.png)
+ <br>
+ ![Alt Text](https://github.com/sadia-tzm/movie-app/blob/main/images/3.png)
 
